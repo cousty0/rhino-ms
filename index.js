@@ -53,6 +53,7 @@ function msçevir(str) {
     case 'dak':
     case 'dk':
     case 'dakika':
+    case 'm':
     case 'minute':
     case 'minutes':
     case 'min':
